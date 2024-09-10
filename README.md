@@ -1,4 +1,10 @@
->>>EDIP
+<p align="center">
+  <img src="./LOGO.png" alt="EDIP Logo" width="200"/>
+</p>
+
+
+                                                                  EDIP🤖
+
 EDIFACT Data Interpreter & Printer
 
 >Overview
