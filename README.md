@@ -3,7 +3,7 @@
 </p>
 
 
-                                                                  EDIP🤖
+                                                        EDIP🤖
 
 EDIFACT Data Interpreter & Printer
 
